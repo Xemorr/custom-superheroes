@@ -1,0 +1,44 @@
+Over9000:
+  colouredName: "&e&lOver9000"
+  description: "VEGETA!What does the scouter say about his power level? ITS OVER 9000!!!"
+  skills:
+    resistance:
+      skill: POTIONEFFECT
+      type: DAMAGE_RESISTANCE
+      potency: 255
+    Regeneration:
+      skill: POTIONEFFECT
+      type: REGENERATION
+      potency: 255
+    ExtraHearts:
+      skill: POTIONEFFECT
+      type: HEALTH_BOOST
+      potency: 255
+    nohunger:
+      skill: NOHUNGER
+    noFall:
+      skill: DAMAGERESISTANCE
+      damageMultiplier: 0
+      damageCause:
+        - "FALL"
+    strongman:
+      skill: STRONGMAN
+      velocity: 2.5
+      upwardsVelocity: 1.0
+      tooMuscularMessage: " &fis too strong to sit in a vehicle!"
+      maxPassengers: 1000000000
+    throwableArrows:
+      skill: THROWER
+      item:
+        material: ARROW
+      ammoCost: 0
+      projectile: ARROW
+      canPickUp: true #if this is not an arrow, this field does nothing. (Tridents count as arrows)
+      cooldown: 0.1
+      cooldownMessage: "Your spear has %s seconds remaining before it can be used again!"
+      velocity: 10
+      damage: 99 #Similarly to pickUp, it only works on arrows.
+    Strength:
+      skill: POTIONEFFECT
+      type: INCREASE_DAMAGE
+      potency: 255
