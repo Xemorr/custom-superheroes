@@ -1,0 +1,24 @@
+UsainBolt:
+  colouredName: "&9&lUsainBolt"
+  description: "“There are better starters than me but I’m a strong finisher.” — Usain Bolt"
+  skills:
+    dolphinsGrace:
+      skill: POTIONEFFECT
+      type: DOLPHINS_GRACE
+      potency: 4
+    Speed:
+      skill: POTIONEFFECT
+      type: SPEED
+      potency: 3
+    Haste:
+      skill: POTIONEFFECT
+      type: FAST_DIGGING	
+      potency: 2
+    JumpBoost:
+      skill: POTIONEFFECT
+      type: JUMP	
+      potency: 3
+    ExtraHearts:
+      skill: POTIONEFFECT
+      type: HEALTH_BOOST
+      potency: 1
