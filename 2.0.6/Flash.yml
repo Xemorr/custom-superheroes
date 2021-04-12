@@ -1,0 +1,32 @@
+Flash:
+  colouredName: "&b&lFlash"
+  description: "You are speed."
+  skills:
+    aura:
+      skill: AURA
+      type: SLOW
+      potency: 3
+      duration: 3
+      radius: 8
+    walkOnWater:
+      skill: WALKER
+      blocksToReplace:
+        - "WATER"
+      blocksToPlace:
+        - "OBSIDIAN"
+      isSneaking: false
+      blocksDrop: true
+      shouldRevert: false
+    speed:
+      skill: POTIONEFFECT
+      type: SPEED
+      potency: 5
+    lavawalker:
+      skill: WALKER
+      blocksToReplace:
+        - LAVA
+      blocksToPlace:
+        - MAGMA_BLOCK
+      isSneaking: false
+      blocksDrop: true
+      shouldRevert: false

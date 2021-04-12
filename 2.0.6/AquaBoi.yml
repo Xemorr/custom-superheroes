@@ -1,0 +1,24 @@
+AquaBoi:
+  colouredName: "&e&lAquaBoi"
+  description: "you are hydrated."
+  skills:
+    resistance:
+      skill: POTIONEFFECT
+      type: DAMAGE_RESISTANCE
+      potency: 1
+    Regeneration:
+      skill: POTIONEFFECT
+      type: REGENERATION
+      potency: 1
+    DolphinsGrace:
+      skill: POTIONEFFECT
+      type: DOLPHINS_GRACE	
+      potency: 4
+    WaterBreathing:
+      skill: POTIONEFFECT
+      type: WATER_BREATHING
+      potency: 1
+    ConduitPower:
+      skill: POTIONEFFECT
+      type: CONDUIT_POWER
+      potency: 1
