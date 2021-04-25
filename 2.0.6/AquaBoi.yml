@@ -5,14 +5,14 @@ AquaBoi:
     resistance:
       skill: POTIONEFFECT
       type: DAMAGE_RESISTANCE
-      potency: 1
+      potency: 15
     Regeneration:
       skill: POTIONEFFECT
       type: REGENERATION
       potency: 1
     DolphinsGrace:
       skill: POTIONEFFECT
-      type: DOLPHINS_GRACE	
+      type: DOLPHINS_GRACE  
       potency: 4
     WaterBreathing:
       skill: POTIONEFFECT
