@@ -5,7 +5,7 @@ AquaBoi:
     resistance:
       skill: POTIONEFFECT
       type: DAMAGE_RESISTANCE
-      potency: 12
+      potency: 1
     Regeneration:
       skill: POTIONEFFECT
       type: REGENERATION
@@ -17,7 +17,7 @@ AquaBoi:
     WaterBreathing:
       skill: POTIONEFFECT
       type: WATER_BREATHING
-      potency: 1
+      potency: 123
     ConduitPower:
       skill: POTIONEFFECT
       type: CONDUIT_POWER
