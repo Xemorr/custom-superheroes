@@ -5,7 +5,7 @@ AquaBoi:
     resistance:
       skill: POTIONEFFECT
       type: DAMAGE_RESISTANCE
-      potency: 15
+      potency: 12
     Regeneration:
       skill: POTIONEFFECT
       type: REGENERATION
