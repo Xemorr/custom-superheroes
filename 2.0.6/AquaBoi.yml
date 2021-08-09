@@ -12,12 +12,12 @@ AquaBoi:
       potency: 1
     DolphinsGrace:
       skill: POTIONEFFECT
-      type: DOLPHINS_GRACE	
+      type: DOLPHINS_GRACE  
       potency: 4
     WaterBreathing:
       skill: POTIONEFFECT
       type: WATER_BREATHING
-      potency: 1
+      potency: 123
     ConduitPower:
       skill: POTIONEFFECT
       type: CONDUIT_POWER
